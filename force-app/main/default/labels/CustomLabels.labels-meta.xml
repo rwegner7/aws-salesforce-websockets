@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>websocketaws_server_url</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>websocketaws_server_url</shortDescription>
+        <value>wss://asqjgmcwqa.execute-api.us-west-2.amazonaws.com/Prod</value>
+    </labels>
+</CustomLabels>
